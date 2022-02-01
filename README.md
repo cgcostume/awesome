@@ -18,3 +18,12 @@
 <img src="https://user-images.githubusercontent.com/3909980/151722343-65e0938a-7693-487d-a1e7-aba17c2d0c06.png" width="512" />
 
 - http://stuffin.space/
+
+
+# not awesome, but quite nice
+
+#### Interactive Exploration of Homogeneous Coordinates and Rational Splines
+
+<img src="https://user-images.githubusercontent.com/3909980/151936748-d98d9463-f8d7-4a84-887e-95a633289a69.png" width="512" />
+
+- https://l0calh05t.github.io/ihcoords/
