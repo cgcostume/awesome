@@ -19,6 +19,18 @@
 
 - http://stuffin.space/
 
+#### Colors of the Sky
+
+<img src="https://github.com/ookuyan/py_sky/raw/master/misc/output_6_1.png" width="512" />
+
+- https://laurentperrinet.github.io/sciblog/posts/2020-07-04-colors-of-the-sky.html
+- https://github.com/ookuyan/py_sky
+
+#### Density of Stars on the Surface of the Sky
+
+<img src="https://user-images.githubusercontent.com/3909980/151937469-e396a22d-b328-428e-b7d9-1cb519ae1e57.png" width="512" />
+
+- https://laurentperrinet.github.io/sciblog/posts/2021-03-27-density-of-stars-on-the-surface-of-the-sky.html
 
 # not awesome, but quite nice
 
@@ -28,9 +40,3 @@
 
 - https://l0calh05t.github.io/ihcoords/
 
-#### Colors of the Sky
-
-<img src="https://github.com/ookuyan/py_sky/raw/master/misc/output_6_1.png" width="512" />
-
-- https://laurentperrinet.github.io/sciblog/posts/2020-07-04-colors-of-the-sky.html
-- https://github.com/ookuyan/py_sky
