@@ -27,3 +27,10 @@
 <img src="https://user-images.githubusercontent.com/3909980/151936748-d98d9463-f8d7-4a84-887e-95a633289a69.png" width="512" />
 
 - https://l0calh05t.github.io/ihcoords/
+
+#### Colors of the Sky
+
+<img src="https://github.com/ookuyan/py_sky/raw/master/misc/output_6_1.png" width="512" />
+
+- https://laurentperrinet.github.io/sciblog/posts/2020-07-04-colors-of-the-sky.html
+- https://github.com/ookuyan/py_sky
