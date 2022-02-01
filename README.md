@@ -19,6 +19,11 @@
 
 - http://stuffin.space/
 
+### WebGL State Diagram
+
+<img src="https://user-images.githubusercontent.com/3909980/151965873-a8c0c217-d52f-4136-b6c6-95613a242ed3.png" width="512" />
+
+- https://webglfundamentals.org/webgl/lessons/resources/webgl-state-diagram.html
 
 ### Scientific logbook, by Laurent Perrinet
 
