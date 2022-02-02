@@ -56,3 +56,11 @@ https://laurentperrinet.github.io/sciblog/
 
 - https://l0calh05t.github.io/ihcoords/
 
+
+# libraries and tools
+
+### asciinema 
+
+<img src="https://user-images.githubusercontent.com/3909980/152185586-bd9dee94-e3d7-46c8-8e53-dcbe4a775130.png" width="512" />
+
+- https://asciinema.org/
