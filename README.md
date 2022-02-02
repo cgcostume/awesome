@@ -13,6 +13,12 @@
 - https://ciechanow.ski/cameras-and-lenses/
 - https://ciechanow.ski/
 
+### Freya Holmér
+
+<img src="https://i.ytimg.com/vi_webp/aVwxzDHniEw/maxresdefault.webp" width="512" />
+
+- https://www.youtube.com/watch?v=aVwxzDHniEw
+
 ### Stuff in Space 
 
 <img src="https://user-images.githubusercontent.com/3909980/151722343-65e0938a-7693-487d-a1e7-aba17c2d0c06.png" width="512" />
