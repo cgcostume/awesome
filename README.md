@@ -59,6 +59,11 @@ https://laurentperrinet.github.io/sciblog/
 
 # code/shader snippetes
 
+### A Multiple-Scattering Microfacet Model for Real-Time Image-based Lighting, Carmelo J. Fdez-Agüera 2019
+
+<img src="https://user-images.githubusercontent.com/3909980/152976049-375059e7-3379-4b68-a28a-cacb3413513d.jpg" width="512" />
+
+- http://www.jcgt.org/published/0008/01/03/paper.pdf
 
 ### Image Based Lighting with Multiple Scattering
 
