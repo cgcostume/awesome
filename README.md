@@ -57,6 +57,20 @@ https://laurentperrinet.github.io/sciblog/
 - https://l0calh05t.github.io/ihcoords/
 
 
+# code/shader snippetes
+
+
+### Image Based Lighting with Multiple Scattering
+
+<img src="https://user-images.githubusercontent.com/3909980/152974935-ad96b6e7-3885-447a-86c0-2846d50cbe80.png" width="512" />
+
+- https://bruop.github.io/ibl/ (Image based lighting)
+
+<img src="https://user-images.githubusercontent.com/3909980/152974946-3770e617-5712-4c97-8bf6-b85849e5f1a4.png" width="512" />
+
+- https://www.shadertoy.com/view/WtBSRR
+
+
 # libraries and tools
 
 ### asciinema 
