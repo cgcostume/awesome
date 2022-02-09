@@ -59,6 +59,12 @@ https://laurentperrinet.github.io/sciblog/
 
 # code/shader snippetes
 
+### Shape As Points: A Differentiable Poisson Solver
+
+<img src="https://pengsongyou.github.io/media/sap/shape_rep_comp.png" width="512" />
+
+- https://pengsongyou.github.io/sap
+
 ### A Multiple-Scattering Microfacet Model for Real-Time Image-based Lighting, Carmelo J. Fdez-Agüera 2019
 
 <img src="https://user-images.githubusercontent.com/3909980/152976049-375059e7-3379-4b68-a28a-cacb3413513d.jpg" width="512" />
