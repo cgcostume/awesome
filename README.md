@@ -84,3 +84,12 @@ https://laurentperrinet.github.io/sciblog/
 
 - https://asciinema.org/
 - https://github.com/Watfaq/PowerSession
+
+
+# books
+
+### Computer Vision: Algorithms and Applications, 2nd ed. 2022 Edition, by Richard Szeliski
+
+<img src="https://szeliski.org/Book/imgs/Szeliski2ndBookFrontCover.png" width="256" />
+
+- https://szeliski.org/Book/
