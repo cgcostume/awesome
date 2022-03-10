@@ -31,6 +31,13 @@
 
 - https://webglfundamentals.org/webgl/lessons/resources/webgl-state-diagram.html
 
+### WebGPU Introduction
+
+<img src="https://surma.dev/coordinates.0952c2b1.avif" width="512" />
+
+- https://surma.dev/things/webgpu/
+
+
 ### Scientific logbook, by Laurent Perrinet
 
 https://laurentperrinet.github.io/sciblog/
