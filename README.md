@@ -37,14 +37,6 @@
 
 - https://surma.dev/things/webgpu/
 
-### CineShader Editor
-
-<img src="https://user-images.githubusercontent.com/3909980/165913153-1969c304-7f1e-4765-8d47-226e6bca8f0f.jpg" width="512" />
-
-- https://cineshader.com
-- https://cineshader.com/editor
-
-
 ### Scientific logbook, by Laurent Perrinet
 
 - https://laurentperrinet.github.io/sciblog/
@@ -97,6 +89,19 @@
 
 
 # libraries and tools
+
+### CineShader Editor
+
+<img src="https://user-images.githubusercontent.com/3909980/165913153-1969c304-7f1e-4765-8d47-226e6bca8f0f.jpg" width="512" />
+
+- https://cineshader.com
+- https://cineshader.com/editor
+
+### GraphToy
+
+<img src="https://user-images.githubusercontent.com/3909980/165913682-3804ae10-e968-4dc0-8617-0f4bc90637fc.jpg" width="512" />
+
+- https://graphtoy.com/
 
 ### asciinema 
 
