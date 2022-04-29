@@ -39,7 +39,7 @@
 
 ### CineShader Editor
 
-<img src="https://user-images.githubusercontent.com/3909980/165912461-59e14448-c74b-42e3-a728-00321990db3e.jpg" width="512" />
+<img src="https://user-images.githubusercontent.com/3909980/165913153-1969c304-7f1e-4765-8d47-226e6bca8f0f.jpg" width="512" />
 
 - https://cineshader.com
 - https://cineshader.com/editor
