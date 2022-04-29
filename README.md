@@ -37,10 +37,17 @@
 
 - https://surma.dev/things/webgpu/
 
+### CineShader Editor
+
+<img src="https://user-images.githubusercontent.com/3909980/165912461-59e14448-c74b-42e3-a728-00321990db3e.jpg" width="512" />
+
+- https://cineshader.com
+- https://cineshader.com/editor
+
 
 ### Scientific logbook, by Laurent Perrinet
 
-https://laurentperrinet.github.io/sciblog/
+- https://laurentperrinet.github.io/sciblog/
 
 ##### Colors of the Sky
 
