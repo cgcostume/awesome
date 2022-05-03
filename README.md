@@ -62,6 +62,12 @@
 
 - https://l0calh05t.github.io/ihcoords/
 
+### Pixel Art Animation. Reinvented - Astortion Devlog
+
+<img src="https://user-images.githubusercontent.com/3909980/166423107-9246bb99-c689-4365-bd0f-30cb704a0e7e.jpg" width="512" />
+
+- https://www.youtube.com/watch?v=HsOKwUwL1bE
+
 
 # code/shader snippetes
 
