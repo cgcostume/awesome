@@ -83,6 +83,13 @@
 
 - http://www.jcgt.org/published/0008/01/03/paper.pdf
 
+### Implementation Notes: Runtime Environment Map Filtering for Image Based Lighting
+
+<img src="https://placeholderart.files.wordpress.com/2015/07/varying-sample-count.png?w=1024&h=295&crop=1" width="512" />
+
+- https://placeholderart.wordpress.com/2015/07/28/implementation-notes-runtime-environment-map-filtering-for-image-based-lighting/
+- http://lousodrome.net/blog/light/2020/01/04/physically-based-rendering-references-at-the-end-of-2019/
+
 ### Image Based Lighting with Multiple Scattering
 
 <img src="https://user-images.githubusercontent.com/3909980/152974935-ad96b6e7-3885-447a-86c0-2846d50cbe80.png" width="512" />
