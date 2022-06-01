@@ -31,6 +31,12 @@
 
 - https://webglfundamentals.org/webgl/lessons/resources/webgl-state-diagram.html
 
+### 3D Game Shaders For Beginners
+
+<img src="https://i.imgur.com/x8rtGr4.gif" width="512" />
+
+- https://lettier.github.io/3d-game-shaders-for-beginners/
+
 ### WebGPU Introduction
 
 <img src="https://surma.dev/coordinates.0952c2b1.avif" width="512" />
