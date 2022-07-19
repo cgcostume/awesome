@@ -77,6 +77,13 @@
 
 # code/shader snippetes
 
+### Stochastic-Procedural Real-Time Hex-Tiling
+
+<img src="https://user-images.githubusercontent.com/3909980/179748338-685cfc2e-4ee2-4110-a2ef-a939dcd311bb.png" width="512" />
+
+- https://github.com/mmikk/hextile-demo
+- https://eheitzresearch.wordpress.com/722-2/
+
 ### Shape As Points: A Differentiable Poisson Solver
 
 <img src="https://pengsongyou.github.io/media/sap/shape_rep_comp.png" width="512" />
