@@ -113,6 +113,18 @@
 
 - https://www.shadertoy.com/view/WtBSRR
 
+### An Exercise in Modular Textures - Scifi lab UDK using a Single 256*512 Texture.
+
+<img src="http://www.torfrick.com/Art/UDKLab/Lab10.jpg" width="512" />
+
+- https://polycount.com/discussion/89682/an-exercise-in-modular-textures-scifi-lab-udk
+
+### Computergraphics Tutorials using Unity and C#
+
+<img src="https://catlikecoding.com/unity/tutorials/hex-map/part-26/tutorial-image.jpg" width="512" />
+
+- https://catlikecoding.com/unity/tutorials/
+
 
 # libraries and tools
 
