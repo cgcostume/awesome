@@ -60,6 +60,16 @@
 
 - https://laurentperrinet.github.io/sciblog/posts/2021-03-27-density-of-stars-on-the-surface-of-the-sky.html
 
+# cool talks
+
+### HPG 2021 Keynote: Optimising for Artist Happiness - Alex Evans, NVIDIA
+
+- https://www.youtube.com/watch?v=eGfX1iWzkh0&t=2548s
+
+### HPG 2022 Keynote: The Journey to Nanite - Brian Karis, Epic Games
+
+- https://www.youtube.com/watch?v=NRnj_lnpORU
+
 # not awesome, but quite nice
 
 ### Interactive Exploration of Homogeneous Coordinates and Rational Splines
