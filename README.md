@@ -87,6 +87,11 @@
 
 # code/shader snippetes
 
+
+### How to build a BVH – Part 1: Basics
+
+- https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/
+
 ### Stochastic-Procedural Real-Time Hex-Tiling
 
 <img src="https://user-images.githubusercontent.com/3909980/179748338-685cfc2e-4ee2-4110-a2ef-a939dcd311bb.png" width="512" />
