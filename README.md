@@ -143,6 +143,12 @@
 
 # libraries and tools
 
+### Human Shader
+
+<img src="https://github.com/cgcostume/awesome/assets/3909980/e8ef8218-290b-46f7-9ef8-d6de44d60d94" width="512" />
+
+ - https://humanshader.com/
+
 ### CineShader Editor
 
 <img src="https://user-images.githubusercontent.com/3909980/165913153-1969c304-7f1e-4765-8d47-226e6bca8f0f.jpg" width="512" />
