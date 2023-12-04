@@ -87,6 +87,11 @@
 
 # code/shader snippetes
 
+### The Best Darn Grid Shader (Yet)
+
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*fFJ22lAeDvmPK0ZjQ_AB9w.gif" width="512" />
+
+- https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8
 
 ### How to build a BVH – Part 1: Basics
 
