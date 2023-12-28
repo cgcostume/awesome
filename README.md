@@ -182,3 +182,9 @@
 <img src="https://szeliski.org/Book/imgs/Szeliski2ndBookFrontCover.png" width="256" />
 
 - https://szeliski.org/Book/
+
+### ZoeMatrope: A System for Physical Material Design
+
+<img src="[https://szeliski.org/Book/imgs/Szeliski2ndBookFrontCover.png](https://github.com/cgcostume/awesome/assets/3909980/f85da92f-8ba1-4f67-bfef-0b8790fe6d5f)" width="256" />
+
+- https://www.youtube.com/watch?v=w0ZPvTYzbsc
