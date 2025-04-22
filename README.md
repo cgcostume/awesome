@@ -1,5 +1,5 @@
 
-#### Benedikt Bitterli (NVIDIA)
+### Benedikt Bitterli (NVIDIA)
 
 <img src="https://user-images.githubusercontent.com/3909980/151722046-5b144d5b-8930-4a86-b568-46e0a16e3182.png" width="512" />
 
@@ -59,6 +59,10 @@
 <img src="https://user-images.githubusercontent.com/3909980/151937469-e396a22d-b328-428e-b7d9-1cb519ae1e57.png" width="512" />
 
 - https://laurentperrinet.github.io/sciblog/posts/2021-03-27-density-of-stars-on-the-surface-of-the-sky.html
+
+###  Arseny Kapoulkine Blog
+
+- https://zeux.io/archives
 
 # cool talks
 
