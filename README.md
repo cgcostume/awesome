@@ -64,6 +64,13 @@
 
 - https://zeux.io/archives
 
+### Extreme Learning
+
+<img src="https://extremelearning.com.au/wp-content/uploads/2018/04/Animated_Comparison_Color.gif" width="512" />
+
+- https://extremelearning.com.au/
+- https://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/
+
 # cool talks
 
 ### HPG 2021 Keynote: Optimising for Artist Happiness - Alex Evans, NVIDIA
